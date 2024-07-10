@@ -1,16 +1,28 @@
-## Hi there 👋
-
-<!--
-**jedeerson/jedeerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Olá! Eu sou Jederson silveira 👋
+ 
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e inovação. Adoro explorar novas linguagens de programação.
+ 
+## 🚀 Sobre Mim
+ 
+- 💼 Atualmente trabalhando como Suprote técnico
+- 🌱 Atualmente estou aprendendo  Python; PostgerSQL; PyQt; 
+- 📫 Como me encontrar: jederdev@gmail.com
+ 
+## 🛠️ Tecnologias e Ferramentas
+ 
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)    
+    📚: Pandas, SELENIUM, BeautifulSoup, Pyautogui, Plotly, Flask.
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+ 
+![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
+  
+## 📈 Cursos
+- [Logica de Programação] - Concluido
+- [Frontend - HTML; CSS; JavaScript] - Concluido
+- [Python] - Cursando
+- [PostgreSQL] - Cursando
+- [PyQt] - Cursando
+ 
+## 🤝 Vamos Conectar!
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/kewin-delazeri-5ab567238/?originalSubdomain=br](https://www.linkedin.com/in/jederson-silveira-remoeri-b660612a2/))
