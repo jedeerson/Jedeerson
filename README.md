@@ -12,6 +12,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
  
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)    
     📚: PostgreSQL, HTML, CSS, Javascript, Python.
+    
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
  
 ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
