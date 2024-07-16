@@ -5,13 +5,13 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ## 🚀 Sobre Mim
  
 - 💼 Atualmente trabalhando como Suprote técnico
-- 🌱 Atualmente estou aprendendo  Python; PostgreSQL; PyQt; 
+- 🌱 Atualmente estou aprendendo  Python; SQL; PyQt; 
 - 📫 Como me encontrar: jederdev@gmail.com
  
 ## 🛠️ Tecnologias e Ferramentas
  
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)    
-    📚: PostgreSQL, HTML, CSS, Javascript, Python.
+    📚: SQL, HTML, CSS, Javascript, Python.
     
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
  
@@ -21,7 +21,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - [Logica de Programação] - Concluido
 - [Frontend - HTML; CSS; JavaScript] - Concluido
 - [Python] - Cursando
-- [PostgreSQL] - Cursando
+- [SQL] - Cursando
 - [PyQt] - Cursando
  
 ## 🤝 Vamos Conectar!
