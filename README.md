@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
  
 ## 🚀 Sobre Mim
  
-- 💼 Atualmente trabalhando como Suprote técnico
+- 💼 Atualmente trabalhando como Desenvolvedor
 - 🌱 Atualmente estou aprendendo  Python; SQL; PyQt; 
 - 📫 Como me encontrar: jederdev@gmail.com
  
