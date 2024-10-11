@@ -22,7 +22,8 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - [Frontend - HTML; CSS; JavaScript] - Concluido
 - [Python] - Cursando
 - [SQL] - Cursando
-- [PyQt] - Cursando
+- [React] - Cursando
+- [Node.js] - Cursando
  
 ## 🤝 Vamos Conectar!
  
