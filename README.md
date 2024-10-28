@@ -11,7 +11,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ## 🛠️ Tecnologias e Ferramentas
  
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)    
-    📚: SQL, HTML, CSS, Javascript, Python.
+    📚: SQL, HTML, CSS, Javascript, Python, Node.js, React.
     
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
  
