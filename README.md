@@ -6,7 +6,7 @@ Sou desenvolvedor de software com foco em **back-end**, **automação de process
 ## 🚀 Sobre mim
 
 - 💼 Desenvolvedor de Software  
-- 🤖 Forte experiência em automação de processos (RPA)  
+- 🤖 Boa experiência em automação de processos (RPA)  
 - ⚙️ Atuação com back-end, sistemas ERP e regras de negócio  
 - 🔗 Integração e consumo de APIs  
 - 🖥️ Experiência em front-end aplicada a projetos web  
