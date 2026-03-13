@@ -5,11 +5,11 @@ Sou desenvolvedor de software com experiência em automação de processos (RPA 
 
 ## 🚀 Sobre mim
 
-Atualmente atuo na Tahto, onde passei a maior parte do tempo desenvolvendo soluções RPA com Python e orquestração via Jenkins, adquirindo experiência prática em automação, pipelines CI/CD e otimização de processos. Hoje também trabalho em contexto de ERP, lidando com integração de APIs, regras de negócio e sistemas corporativos, principalmente utilizando C#, com conhecimentos também em Java. [cite:2][cite:207]
+Atualmente atuo na Tahto, onde passei a maior parte do tempo desenvolvendo soluções RPA com Python e orquestração via Jenkins, adquirindo experiência prática em automação, pipelines CI/CD e otimização de processos. Hoje também trabalho em contexto de ERP, lidando com integração de APIs, regras de negócio e sistemas corporativos, principalmente utilizando C#, com conhecimentos também em Java. 
 
-Possuo experiência em desenvolvimento de software com foco em back-end, automação e integração entre sistemas, além de atuação com bancos de dados SQL e manutenção de projetos legados. [cite:2]
+Possuo experiência em desenvolvimento de software com foco em back-end, automação e integração entre sistemas, além de atuação com bancos de dados SQL e manutenção de projetos legados. 
 
-Tenho perfil analítico, foco em qualidade de código, organização e aprendizado contínuo, sempre buscando soluções eficientes e alinhadas às necessidades do negócio. [cite:211]
+Tenho perfil analítico, foco em qualidade de código, organização e aprendizado contínuo, sempre buscando soluções eficientes e alinhadas às necessidades do negócio. 
 
 📫 Contato: **jederdev@gmail.com**
 
