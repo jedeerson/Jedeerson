@@ -37,7 +37,7 @@ Tenho perfil analítico, foco em qualidade de código, organização e aprendiza
 
 ## 📌 Objetivo
 
-Atuar no desenvolvimento de software, unindo automação de processos, integração de sistemas e qualidade de código para entregar soluções eficientes, escaláveis e alinhadas às necessidades do negócio. [cite:211]
+Atuar no desenvolvimento de software, unindo automação de processos, integração de sistemas e qualidade de código para entregar soluções eficientes, escaláveis e alinhadas às necessidades do negócio. 
 
 ## 🤝 Vamos nos conectar
 
