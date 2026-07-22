@@ -1,56 +1,168 @@
-# 👋 Olá! Eu sou Jederson Silveira
+# 👋 Olá, eu sou Jederson Silveira
 
-Bem-vindo ao meu GitHub!  
-Desenvolvedor back-end com foco em automação, integração de sistemas e bancos de dados.
-Python é minha linguagem principal, com experiência prática em C# e Java na manutenção
-e evolução de APIs e sistemas legados.
+## Desenvolvedor Backend | Python | RPA | Automação de Processos
 
-## 🚀 Sobre mim
+Sou desenvolvedor com foco em **backend e automação de processos**, com experiência profissional em **RPA utilizando Python**.
 
-Tenho experiência em automação de processos com Python, pipelines CI/CD via Jenkins e
-integração de APIs REST. Trabalhei com manutenção e desenvolvimento em projetos legados
-utilizando C# e Java, em contextos de ERP e sistemas corporativos.
+Minha trajetória na tecnologia começou através do desenvolvimento de aplicações web e sistemas internos, evoluindo para soluções envolvendo **automação, manipulação de dados, integração entre sistemas e desenvolvimento de aplicações com banco de dados**.
 
-Também venho explorando desenvolvimento web com Node.js e React em projetos pessoais,
-ampliando minha atuação para além do back-end.
+Atualmente estou aprofundando meus conhecimentos em **automação RPA, APIs, backend e boas práticas de desenvolvimento**, buscando criar soluções eficientes e que gerem impacto nos processos de negócio.
 
-Tenho perfil analítico, foco em qualidade de código e aprendizado contínuo, sempre
-buscando soluções práticas e bem estruturadas.
+---
 
-📫 Contato: **jederdev@gmail.com**
+# 🚀 Experiência e Conhecimentos
 
-## 🛠️ Tecnologias
+## 🤖 Automação RPA
 
-### Back-end & Automação
-![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
-![CSharp](https://img.shields.io/badge/C%23-333333?style=flat&logo=csharp)
-![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk)
-![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=nodedotjs)
+Experiência profissional no desenvolvimento de automações utilizando Python para otimização de processos.
 
-### Front-end
-![React](https://img.shields.io/badge/React-333333?style=flat&logo=react)
+Conhecimentos:
 
-### Bancos de Dados
-![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite)
-![Oracle](https://img.shields.io/badge/Oracle-333333?style=flat&logo=oracle)
+- Automação de tarefas repetitivas
+- Manipulação e validação de arquivos
+- Processamento de dados
+- Automação Web com Selenium e Playwright
+- Integração com sistemas corporativos
+- Tratamento de erros e exceções
+- Rotinas automatizadas
 
-## 🧰 Ferramentas
+---
 
-- Git, GitHub & GitLab
-- Jenkins CI/CD
-- Automação de processos (RPA)
-- Integração e consumo de APIs REST
-- Análise e organização de soluções
+## 💻 Desenvolvimento Backend
 
-## 📌 Objetivo
+Tecnologias e conceitos:
 
-Desenvolver soluções back-end eficientes, unindo automação, integração de sistemas e
-boas práticas de código — seja em contextos corporativos ou projetos pessoais.
+- Python
+- Node.js
+- APIs REST
+- Programação Orientada a Objetos
+- Regras de negócio
+- Estruturação de aplicações
 
-## 🤝 Vamos nos conectar
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jederson-silveira-remoeri-b660612a2/)
+## 🗄️ Banco de Dados
 
-👇 Confira meus projetos pessoais logo abaixo.
+Conhecimentos em:
+
+- SQL
+- MySQL
+- PostgreSQL
+- SQLite
+- Oracle
+
+---
+
+## 🌐 Desenvolvimento Web
+
+Conhecimentos:
+
+- HTML
+- CSS
+- JavaScript
+- React
+
+---
+
+# 📌 Projetos
+
+## 🎫 [SimpleFacTicket](https://github.com/jedeerson/simple-fac-ticket-system)
+
+Sistema desenvolvido para gerenciamento e controle de chamados internos.
+
+Projeto criado para aplicar conceitos de desenvolvimento full stack, integração entre frontend/backend e persistência de dados.
+
+**Tecnologias:**
+
+- React
+- Node.js
+- MySQL
+
+---
+
+## 🖥️ [QtData](https://github.com/jedeerson/qtdata-crud-python)
+
+Sistema CRUD desktop desenvolvido em Python utilizando PyQt5.
+
+Projeto criado para praticar desenvolvimento de aplicações, interfaces gráficas e integração com banco de dados.
+
+**Tecnologias:**
+
+- Python
+- PyQt5
+- SQLite
+
+---
+
+## 🌐 [WebSite Isabelle Gai Nutricionista](https://github.com/jedeerson/WebSite-Isa-Nutri)
+
+Website profissional desenvolvido para apresentação de serviços de nutrição.
+
+Aplicação responsiva desenvolvida utilizando tecnologias web.
+
+**Tecnologias:**
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 🧮 [Calculadora de GET](https://github.com/jedeerson/Calculadora-de-GET)
+
+Aplicação web desenvolvida para cálculo do gasto energético total.
+
+**Tecnologias:**
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 🌱 [Massa Pneus Website](https://github.com/jedeerson/massa-pneus-website)
+
+Meu primeiro projeto desenvolvido utilizando HTML e CSS.
+
+Esse projeto representa o início da minha jornada no desenvolvimento web, onde comecei a aplicar conceitos de estruturação de páginas e estilização.
+
+**Tecnologias:**
+
+- HTML
+- CSS
+
+---
+
+# 📚 Atualmente estudando
+
+- Automação RPA avançada com Python
+- Desenvolvimento de APIs
+- Arquitetura Backend
+- Integração entre sistemas
+- Boas práticas de programação
+
+---
+
+# 🛠️ Tecnologias
+
+<div>
+<img src="https://skillicons.dev/icons?i=python,nodejs,react,javascript,html,css,mysql,postgres,git,github,vscode" />
+</div>
+
+---
+
+# 📚 Estudos e exercícios
+
+- [Testes e Exercícios Python](https://github.com/jedeerson/Testes_e_Exercicios)
+
+Repositório criado durante minha evolução nos estudos de lógica de programação e fundamentos do Python.
+
+---
+
+# 📫 Contato
+
+LinkedIn:
+https://www.linkedin.com/in/jederson-silveira-remoeri-b660612a2/
+
+GitHub:
+https://github.com/jedeerson
