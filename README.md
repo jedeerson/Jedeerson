@@ -164,5 +164,3 @@ Repositório criado durante minha evolução nos estudos de lógica de programa�
 LinkedIn:
 https://www.linkedin.com/in/jederson-silveira-remoeri-b660612a2/
 
-GitHub:
-https://github.com/jedeerson
