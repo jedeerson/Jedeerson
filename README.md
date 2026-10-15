@@ -14,7 +14,7 @@ Atualmente estou aprofundando meus conhecimentos em arquitetura backend, novas t
 
 ## 🤖 Automação RPA
 
-Experiência profissional no desenvolvimento de automações utilizando Python para otimização de processos.
+Experiência profissional no desenvolvimento de automações utilizando Python e C# .NET para otimização de processos.
 
 Conhecimentos:
 
