@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou Jederson Silveira
 
-## Desenvolvedor Backend | Python | RPA | Automação de Processos
+## Desenvolvedor (RPA) | Automação de Processos | APIs REST | SQL | C#/.NET | Python
 
-Sou desenvolvedor com foco em **backend e automação de processos**, com experiência profissional em **RPA utilizando Python**.
+Sou desenvolvedor com foco em backend e automação de processos, com sólida experiência prática em automações, integração de sistemas e rotinas robustas.
 
-Minha trajetória na tecnologia começou através do desenvolvimento de aplicações web e sistemas internos, evoluindo para soluções envolvendo **automação, manipulação de dados, integração entre sistemas e desenvolvimento de aplicações com banco de dados**.
+Minha trajetória na tecnologia abrange o desenvolvimento de aplicações web, sistemas internos e soluções voltadas à eficiência operacional, evoluindo para a manipulação de dados, consumo de APIs e gestão de bancos de dados relacionais.
 
-Atualmente estou aprofundando meus conhecimentos em **automação RPA, APIs, backend e boas práticas de desenvolvimento**, buscando criar soluções eficientes e que gerem impacto nos processos de negócio.
+Atualmente estou aprofundando meus conhecimentos em arquitetura backend, novas tecnologias e boas práticas de desenvolvimento (utilizando ecossistemas como Python, C#/.NET e ferramentas de automação), buscando sempre criar soluções eficientes e que gerem impacto real nos processos de negócio.
 
 ---
 
@@ -21,7 +21,7 @@ Conhecimentos:
 - Automação de tarefas repetitivas
 - Manipulação e validação de arquivos
 - Processamento de dados
-- Automação Web com Selenium e Playwright
+- Automação Web com Selenium, Playwright, WebDriver
 - Integração com sistemas corporativos
 - Tratamento de erros e exceções
 - Rotinas automatizadas
@@ -33,6 +33,7 @@ Conhecimentos:
 Tecnologias e conceitos:
 
 - Python
+- C# .NET
 - Node.js
 - APIs REST
 - Programação Orientada a Objetos
@@ -65,6 +66,21 @@ Conhecimentos:
 ---
 
 # 📌 Projetos
+
+## 🏋️‍♂️ [ColetaDeTreinadores](https://github.com/jedeerson/coleta-dados-treinadores)
+
+Sistema de automação e raspagem de dados desenvolvido em C# (.NET) utilizando Selenium WebDriver e xUnit.
+
+Projeto criado com o objetivo de otimizar a prospecção de parceiros de forma automatizada e inteligente, aplicando o padrão Page Object Model (POM) e tratamento de exceções para garantir a resiliência da coleta.
+
+**Tecnologias:**
+
+- C#
+- .NET
+- Selenium WebDriver
+- xUnit
+
+---
 
 ## 🎫 [SimpleFacTicket](https://github.com/jedeerson/simple-fac-ticket-system)
 
@@ -135,7 +151,7 @@ Esse projeto representa o início da minha jornada no desenvolvimento web, onde 
 
 # 📚 Atualmente estudando
 
-- Automação RPA avançada com Python
+- Automação RPA avançada com Python e C# .NET
 - Desenvolvimento de APIs
 - Arquitetura Backend
 - Integração entre sistemas
